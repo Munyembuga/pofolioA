@@ -1,0 +1,483 @@
+#aboutme{
+    box-shadow: 0px 0px 0px ;
+    background:white;
+
+}
+.head20{
+    text-align: center;
+}
+#paragraphy{
+    text-align: center;
+    align-items: center;
+
+}
+.aboutcontent{
+    display: flex;
+    justify-content: space-around;
+    /* text-align: center; */
+    padding-top: 50px;
+
+}
+.aboutbtn{
+    box-shadow: 0px 0px 0px ;
+    width: 400px;
+    height: 400px;
+
+}
+.aboutbtn p{
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.aboutbtn img{
+    width: 300px;
+    height: 300px;
+
+
+}
+.aboutbtn button{
+
+    flex-direction: column;
+    background: red;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.aboutbtn2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 40px;
+    background: white;
+    /* padding-left:100px;
+    margin-right:100px; */
+    text-align:center;
+    padding-right:100px;
+  
+    /* margin-right:200px */
+
+
+}
+.aboutbtn1{
+    /* margin-left: 100px; */
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2) ;
+    width:100px;
+   
+    flex-direction: column;
+    /* text-align:center; */
+    /* padding-left:100px; */
+    margin-right:100px;
+}
+.aboutbtn1 p h3 img{
+    margin-left:50px;
+    margin-right:50px;
+}
+.aboutbtn1 button {
+    flex-direction: column;
+    background: red;
+    border-radius: 5px;
+    margin-top: 30px;
+
+}
+.aboutbtn1 a{
+    text-decoration: none;
+    display: block;
+    color:black;
+
+}
+.ababoutcontent21{
+    background: #FEFAFA;
+}
+.aboutcontent2{
+    display:flex;
+    justify-content:space-around;
+}
+
+.aboutbtn2{
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2) ;
+    width:200px;
+    display:block;
+    flex-direction:column;
+    margin-left:30px;
+    margin-top:50px;
+    background-color:white;
+}
+.aboutbtn2 button{
+    background: red;
+    border-radius: 5px;
+    margin-top: 30px;
+
+}
+.aboutbtn2 a{
+    text-decoration:none;
+    color:black;
+    display:block;
+    justify-content:space-around;
+    flex-direction:column;
+    margin-right:-220px;
+    margin-top:30px;
+
+}
+.aboutbtn2 img{
+    width:300px;
+
+}
+#aboutme2{
+    background-color:#FEFAFA;
+}
+.servicehead{
+    text-align:center;
+    align-items:center;
+    font-size:20px;
+
+
+}
+.servicebtn{
+    display:block;
+    flex-direction:column;
+    text-align:center;
+    align-items:center;
+    box-shadow:10px 10px 10px rgba(0,0,0,0.2);
+    width:300px;
+    height:300px;
+    margin-left:30px;
+    margin-top:50px;
+
+}
+.icon1 i{
+    margin-top:8px;
+
+}
+.icon1 {
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    background:red;
+    /* text-align:center;
+    align-items:center; */
+    margin-top:40px;
+    margin-left: 120px;
+   
+
+}
+.icon2 i{
+     text-align:center;
+    align-items:center;
+    margin-top:8px;
+    
+}
+.icon2 {
+    width:30px;
+    height:30px;
+    border-radius:50% ;
+    border:2px solid black;
+    /* text-align:center; */
+    /* align-items:center; */
+    /* padding-left:120px; */
+    margin-left: 120px;
+
+    
+}
+.servicecontent{
+    display:flex;
+    justify-content:space-around;
+}
+.experiancehead{
+    text-align:center;
+    align-items:center;
+}
+.experiancecontent{
+    display:flex;
+    justify-content:space-around;
+    margin-top:60px;
+
+}
+.experiancebtn{
+    box-shadow:10px 10px 10px rgba(0,0,0,0.2);
+    width:500px;
+    height:180px;
+    display:block;
+    flex-direction:column;
+    
+
+}
+.date{
+    color:red:
+
+}
+.bodybtn{
+    margin-left:30px;
+}
+
+
+.experiancehead2{
+    text-align:center;
+    align-items:center;
+}
+.experiancecontent2{
+    display:flex;
+    justify-content:space-around;
+    margin-top:60px;
+
+}
+.experiancebtn2{
+    box-shadow:10px 10px 10px rgba(0,0,0,0.2);
+    width:250px;
+    height:300px;
+    display:block;
+    flex-direction:column;
+    
+
+}
+.date2{
+    color:red:
+
+}
+.bodybtn2{
+    margin-left:30px;
+}
+.rect2{
+    width:150px;
+    height:10px;
+    border-radius:10px;
+    background-color:red;
+  
+}
+.rect1{
+    width:200px;
+    height:10px;
+    border-radius:10px;
+    background-color:black;
+    margin-left:30px;
+}
+.clientbtn{
+    display:block;
+    text-align:center;
+    align-items:center;
+    box-shadow:10px 10px 10px rgba(0,0,0,0.2);
+    width:280px;
+    height:300px;
+
+
+
+}
+.clientsay{
+    text-align:center;
+    align-items:center;
+}
+.imagehead{
+    margin-left:-105px;
+}
+.imagehead img{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    border:1px solid red;
+    cursor: pointer;
+    margin-left:110px;
+
+    
+}
+
+.linee{
+    width:80px;
+    color:red;
+    border:1px solid red;
+    
+}
+.clientcontent{
+    display:flex;
+    justify-content:space-around;
+    margin-top:50px;
+
+}
+.footbodybtn{
+    flex-direction:column;
+    margin-top:50px;
+
+}
+.footbodybtn a{
+    text-decoration:none;
+    color:white;
+   
+    margin-left:15px;
+
+}
+.footbodycontent{
+    display:flex;
+    justify-content:space-around;
+  
+    margin-top:50px;
+
+
+}
+.footbody{
+    background-color:#002D5B;
+    color:white;
+    height:180px;
+    margin-bottom:60px;
+
+}
+.footercontent{
+    text-align:center;
+    align-items:center;
+    display:block;
+    margin-top:40px;
+
+
+}
+#aboutme{
+
+    background-color:#FEFAFA;
+}
+#experiance{
+    background-color:#FEFAFA;
+
+}
+#client{
+    background-color:#FEFAFA;
+}
+#footer{
+    background:#FFFFFF;
+}
+.footercontent button{
+    background-color:red;
+    color:white;
+    border-radius:10px;
+    /* text-align:center; */
+}
+.footercontent input{
+    width:150px;
+    height:10px;
+}
+.footerdown{
+    text-align:center;
+    align-items:center;
+    margin-top:70px;
+}
+/* .processs{
+    background: url(picture4.jpg);
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit:fill;
+    background-position: center;
+
+
+} */
+.headmypotifoliobtn{
+    box-shadow:10px 10px 10px rgba(0,0,0,0.5);
+    width:300px;
+    height:400px;
+    background:url(profile.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align:center;
+    align-items:center;
+}
+.headmypotifoliocont{
+    display:flex;
+    justify-content:space-around;
+    margin-top:80px;
+}
+.headmypotifolio{
+    text-align:center;
+    align-items:center;
+
+}
+.headmypotifoliobtn p, button{
+
+    text-align:center;
+    align-items:center;
+    margin-top:80px;
+    color:white
+
+}
+.headmypotifoliobtn button{
+    border-radius:5px;
+    background:red;
+
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+    padding-left: 500px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 20px;
+
+
+}
+form input{
+    width: 90%;
+    padding:10px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 7px;
+    outline: none;
+
+}
+ input[type="button"]
+ {
+    width: 320px;
+    height: 350px;
+    margin-top: 20px;
+    border: none;
+    background-color: #49c1a2;
+    color: white;
+    font-size: 20px; 
+    align-content: center;
+  
+
+
+ }
+ @media  (max-width:700px){
+    .aboutcontent{
+        display: block;
+        flex-direction: column;
+    }
+    .aboutcontent2{
+        display: block;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+    .servicecontent{
+        display: block;
+        flex-direction: column;
+        margin-top: 60px;
+        margin-left: 70px;
+    }
+    .headmypotifoliocont{
+        display: block;
+        flex-direction: column;
+        margin-top: 60px;
+        margin-left: 80px;
+    }
+    .experiancecontent{
+        display: block;
+        flex-direction: column;
+        margin-top: 60px;
+        margin-left: 20px;
+        margin-right: 20;
+    }
+    .experiancecontent2{
+        display: block;
+        flex-direction: column;
+        margin-top: 60px;
+        margin-left: 90px;
+       
+    }
+    .clientcontent{
+        display: block;
+        flex-direction: column;
+        margin-top: 60px;
+        margin-left: 90px;
+
+    }
+    #form1{
+        
+        margin-left:-200px;
+    }
+
+ }
